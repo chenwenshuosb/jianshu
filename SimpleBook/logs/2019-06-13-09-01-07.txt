@@ -1,0 +1,6 @@
+2019-06-13 09:01:13,813|loggerTools.py|INFO:info
+2019-06-13 09:01:13,813|loggerTools.py|INFO:info
+2019-06-13 09:01:22,289|loggerTools.py|INFO:info
+2019-06-13 09:01:22,289|loggerTools.py|INFO:info
+2019-06-13 09:01:22,289|loggerTools.py|INFO:info
+2019-06-13 09:01:22,289|loggerTools.py|INFO:info

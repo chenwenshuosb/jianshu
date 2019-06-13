@@ -1,0 +1,1 @@
+2019-06-13 08:46:45,863|loggerTools.py|ERROR:error
